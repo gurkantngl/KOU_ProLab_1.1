@@ -1,0 +1,26 @@
+Etiket Listesi	-	Tekrar Sayısı
+Matematik_I                   3
+Programlama_I                 3
+Matematik_II                  3
+Programlama_II                3
+Gorsel Programlama            6
+VeritabaniYonetimi            4
+Ingilizce                     1
+Ingilizce_I                   1
+Yoneylem                      2
+Ingilizce_II                  2
+Organik Kimya                 1
+istatistik                    1
+Matematik I                   1
+Programlama I                 2
+	Yetim labels
+Gorsel Programlama
+VeritabaniYonetimi
+Ingilizce
+Ingilizce_I
+Yoneylem
+Ingilizce_II
+Organik Kimya
+istatistik
+Matematik I
+Programlama I

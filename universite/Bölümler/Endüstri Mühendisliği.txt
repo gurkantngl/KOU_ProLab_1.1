@@ -1,0 +1,3 @@
+Guz Zorunlu dersler: [[Ingilizce_I]] , [[Yoneylem]].
+Bahar Zorunlu Dersler: [[Ingilizce_II]] , [[Uretim Planlama Kontrol]].
+Secmeli Dersler: [[Nesneye Yonelik Programlama]] , [[Gorsel Programlama]], [[VeritabaniYonetimi]].
